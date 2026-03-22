@@ -1,0 +1,2 @@
+cp $(/home/eli/.config/hypr/hyprlock_get_wallpaper.sh) /tmp/current_wall
+exec rhyprlock

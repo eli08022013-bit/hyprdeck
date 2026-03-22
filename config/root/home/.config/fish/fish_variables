@@ -1,0 +1,12 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR --export C_EDITOR:nvim
+SETUVAR --export C_FILEMGR:yazi
+SETUVAR --export C_MULTIPLEXER:kitten
+SETUVAR --export DEFAULT_SHORT_SSID_LEN:6
+SETUVAR --export EDITOR:nvim
+SETUVAR --export NNN_OPTS:deHr
+SETUVAR --export SHELL:\x1d
+SETUVAR __fish_initialized:4300
+SETUVAR fish_greeting:
+SETUVAR fish_user_paths:/home/eli/\x2ecargo/bin\x1e/home/eli/\x2elocal/bin
